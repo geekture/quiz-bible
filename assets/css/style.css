@@ -1,0 +1,18 @@
+html {
+  font-family: sans-serif;
+}
+body{
+  padding-top: 10px;
+}
+.lastResult {
+  color: white;
+  padding: 5px;
+}
+.gwo-teks{
+  font-weight: bold;
+  font-size: 50px;
+  text-shadow: 1px 2px 1px #FFEECC;
+}
+.imagePosition{
+  width: 200px;
+}
