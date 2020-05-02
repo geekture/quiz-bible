@@ -1,0 +1,466 @@
+[
+  {
+    "question": "Quel est le plus long verset de la bible",
+    "choice1": "Jean 3:16",
+    "choice2": "Esther 8:9",
+    "choice3": "Juges 3:17",
+    "choice4": "1 Samuel 13:19",
+    "answer": 2
+  },
+  {
+    "question": "Quel prophète fut descendu par des cordes dans une fosse?",
+    "choice1": "Jérémie",
+    "choice2": "Zacharie",
+    "choice3": "Samuel",
+    "choice4": "Daniel",
+    "answer": 1
+  },
+  {
+    "question": "Quel ouvrier en cuivre fut un adversaire de l'apôtre Paul?",
+    "choice1": "Jambrès",
+    "choice2": "Janès",
+    "choice3": "Alexandre",
+    "choice4": "Philémon",
+    "answer": 3
+  },
+  {
+    "question": "Quel enfant reçut un prénom destiné à commémorer la perte de la gloire d'Israël?",
+    "choice1": "Jacob",
+    "choice2": "Ismaël",
+    "choice3": "I-Kabod",
+    "choice4": "Eglon",
+    "answer": 3
+  },
+  {
+    "question": "Au temps de l'ancien testament combien valait un serviteur (esclave)?",
+    "choice1": "10 sicles d'argent",
+    "choice2": "Ils était qratuits",
+    "choice3": "300 sicles d'argent",
+    "choice4": "30 sicles d'argent",
+    "answer": 4
+  },
+  {
+    "question": "Qui a rendu le fer plus léger que l'eau?",
+    "choice1": "Elisée",
+    "choice2": "Elie",
+    "choice3": "Malachie",
+    "choice4": "Joël",
+    "answer": 1
+  },
+  {
+    "question": "Quel chevalier eut son pied coincé contre un mur?",
+    "choice1": "Saül",
+    "choice2": "Balaam",
+    "choice3": "Josué",
+    "choice4": "Gédéon",
+    "answer": 2
+  },
+  {
+    "question": "Lequel de ces passages relate qu'il était impossible de trouver un forgeron en Israël?",
+    "choice1": "2 Chroniques 8:17",
+    "choice2": "Juges 3:10",
+    "choice3": "Esther 2:3",
+    "choice4": "1 Samuel 13:19",
+    "answer": 4
+  },
+  {
+    "question": "Qui périt pour avoir demandé en mariage sa belle-mère?",
+    "choice1": "Adonija",
+    "choice2": "Aucune de ces personnes",
+    "choice3": "Abija",
+    "choice4": "Aman",
+    "answer": 1
+  },
+  {
+    "question": "Passage relantant qu'un roi est allé au bord de la mer",
+    "choice1": "Esther 5:2",
+    "choice2": "1 Rois 14:1-17",
+    "choice3": "2 Chroniques 8:17",
+    "choice4": "Juges 6:19",
+    "answer": 1
+  },
+  {
+    "question": "Qui fut en meilleure santé grâce à un régime végétarien?",
+    "choice1": "Job",
+    "choice2": "Ruth",
+    "choice3": "Daniel, Hanania, Mischaël et Azaria",
+    "choice4": "Abraham",
+    "answer": 3
+  },
+  {
+    "question": "Quel passage des Saintes Ecritures relatant qu'un prophète desobeissant a été tué par un lion?",
+    "choice1": "Luc 3:10-17",
+    "choice2": "2 Rois 6:10",
+    "choice3": "Psaumes 86:13",
+    "choice4": "1 Rois 13:24-26",
+    "answer": 4
+  },
+  {
+    "question": "Quel passage des Saintes Ecritures relatant qu'un prophète desobeissant a été tué par un lion?",
+    "choice1": "Luc 3:10-17",
+    "choice2": "2 Rois 6:10",
+    "choice3": "Psaumes 86:13",
+    "choice4": "1 Rois 13",
+    "answer": 4
+  },
+  {
+    "question": "Quel chef entendit la prédiction de sa victoire par le rêve d'un ennemi?",
+    "choice1": "Gédéon",
+    "choice2": "Moïse",
+    "choice3": "David",
+    "choice4": "Saül",
+    "answer": 1
+  },
+  {
+    "question": "Qui partit chercher les ânesses de son père et trouva un royaume?",
+    "choice1": "Jerubaal",
+    "choice2": "Ophra",
+    "choice3": "Zeeb",
+    "choice4": "Saül",
+    "answer": 4
+  },
+  {
+    "question": "Quelle femme fut payée pour allaiter son propre bébé?",
+    "choice1": "Sarah",
+    "choice2": "Nephtali",
+    "choice3": "La mere de Moïse",
+    "choice4": "Rebecca",
+    "answer": 3
+  },
+  {
+    "question": "Qui essaya de tuer son fils pendant un repas?",
+    "choice1": "Jacob",
+    "choice2": "Saül",
+    "choice3": "Job",
+    "choice4": "Abraham",
+    "answer": 2
+  },
+  {
+    "question": "Selon les Ecritures, lequel de ces petites créatures est exceptionnellent sage?",
+    "choice1": "Le lion",
+    "choice2": "Le cheval",
+    "choice3": "Les fourmis",
+    "choice4": "Le serpent",
+    "answer": 3
+  },
+  {
+    "question": "Quel roi installa des conduites souterraines à Jerusalem?",
+    "choice1": "Saül",
+    "choice2": "Salomon",
+    "choice3": "Joas",
+    "choice4": "Ezéchias",
+    "answer": 4
+  },
+  {
+    "question": "Qui fut le premier missionnaire vers les nations non-juives ou païens?",
+    "choice1": "Paul",
+    "choice2": "Daniel",
+    "choice3": "Jonas",
+    "choice4": "Philémon",
+    "answer": 3
+  },
+  {
+    "question": "Qui fit une fête pendant 187 jours?",
+    "choice1": "David",
+    "choice2": "Assuérus",
+    "choice3": "Salomon",
+    "choice4": "Saül",
+    "answer": 3
+  },
+  {
+    "question": "Quel prophète était content de l'argent qu'on lui offrait pour prophétiser?",
+    "choice1": "Balaam",
+    "choice2": "Malachie",
+    "choice3": "Esaïe",
+    "choice4": "Ezechiel",
+    "answer": 1
+  },
+  {
+    "question": "Qui fut sévèrement repris pour avoir voulu acheter un don spirituel?",
+    "choice1": "Simon",
+    "choice2": "Saül",
+    "choice3": "Phillipe",
+    "choice4": "Aquilas",
+    "answer": 1
+  },
+  {
+    "question": "Qui prolongea sa vie de 15 ans par une prière?",
+    "choice1": "Manassé",
+    "choice2": "Ezéchias",
+    "choice3": "Elisée",
+    "choice4": "Schéba",
+    "answer": 2
+  },
+  {
+    "question": "Où l'Ecriture parle-t-elle d'un serpent de mer?",
+    "choice1": "2 Rois 20:1-6",
+    "choice2": "Daniel 3:2-3",
+    "choice3": "Amos 9:3",
+    "choice4": "Jacques 2:25",
+    "answer": 3
+  },
+  {
+    "question": "Où l'Ecriture fait-elle allusion au fait que les serpents naissent de l'écosion d'œufs?",
+    "choice1": "Esaïe 59:5",
+    "choice2": "Amos 6:7",
+    "choice3": "Juges 1:23-25",
+    "choice4": "Daniel 2:1",
+    "answer": 1
+  },
+  {
+    "question": "Lequel de ces rois souffrait d'insomnie?",
+    "choice1": "Assuerus",
+    "choice2": "Nebucadnesar",
+    "choice3": "Darius",
+    "choice4": "Les 3",
+    "answer": 4
+  },
+  {
+    "question": "Laquelle de ces passages bibliques relatent qu'un tonnerre gagna la guerre pour un peuple découragé?",
+    "choice1": "Juges 1:23-25",
+    "choice2": "1 Samuel 7:7-11",
+    "choice3": "Amos 9:3",
+    "choice4": "Daniel 1:2",
+    "answer": 2
+  },
+  {
+    "question": "Où l'Ecriture mentionne que 185000 soldats furent tués en une seule nuit?",
+    "choice1": "2 Rois 19:35",
+    "choice2": "2 Pierre 2:15",
+    "choice3": "Jonas 1:1-3",
+    "choice4": "Genèse 4:20",
+    "answer": 1
+  },
+  {
+    "question": "Quel est le premier homme dont il est dit qu'il s'est étranglé?",
+    "choice1": "Achimaats",
+    "choice2": "Jonathan",
+    "choice3": "Achitophel",
+    "choice4": "Huschaï",
+    "answer": 3
+  },
+  {
+    "question": "Quel est le premier suicide dans les Ecritures?",
+    "choice1": "Jonathan",
+    "choice2": "Abinadab",
+    "choice3": "Malkischua",
+    "choice4": "Saül",
+    "answer": 4
+  },
+  {
+    "question": "Quel est celui qui se tua pour tuer ses ennemis?",
+    "choice1": "Joab",
+    "choice2": "Samson",
+    "choice3": "Asaël",
+    "choice4": "Abner",
+    "answer": 2
+  },
+  {
+    "question": "Qui fut surpris à lire la Bible à haute voix?",
+    "choice1": "Le ministre de Candace",
+    "choice2": "Mathieu",
+    "choice3": "Samuel",
+    "choice4": "Abner",
+    "answer": 1
+  },
+  {
+    "question": "Le terme cène se trouve combien de fois dans les Ecritures?",
+    "choice1": "10 fois",
+    "choice2": "7 fois",
+    "choice3": "1 fois",
+    "choice4": "66 fois",
+    "answer": 3
+  },
+  {
+    "question": "Où les disciples reçurent le nom de chrétiens pour la première fois?",
+    "choice1": "Nazareth",
+    "choice2": "Egypte",
+    "choice3": "Rome",
+    "choice4": "Antioche",
+    "answer": 4
+  },
+  {
+    "question": "Combien de versets que contient la bible?",
+    "choice1": "25432",
+    "choice2": "31102",
+    "choice3": "10000",
+    "choice4": "144000",
+    "answer": 2
+  },
+  {
+    "question": "La Bible est regroupée en combien de chapitres?",
+    "choice1": "1200",
+    "choice2": "3421",
+    "choice3": "7654",
+    "choice4": "1189",
+    "answer": 4
+  },
+  {
+    "question": "Mot utilisé pour louer Dieu, signifiant << Sauvez-vous maintenant >>.",
+    "choice1": "Maranatha",
+    "choice2": "Jehovah",
+    "choice3": "Hosanna",
+    "choice4": "Seigneur",
+    "answer": 3
+  },
+  {
+    "question": "Terme désignant un engagement normalement entre Dieu et son peuple.",
+    "choice1": "Pacte",
+    "choice2": "Accord",
+    "choice3": "Alliance",
+    "choice4": "Obeïssance",
+    "answer": 3
+  },
+  {
+    "question": "Terre promise par Dieu à Israël, située à l'extremité de la Méditerranée.",
+    "choice1": "Samarie",
+    "choice2": "Canaan",
+    "choice3": "Judée",
+    "choice4": "Babylone",
+    "answer": 3
+  },
+  {
+    "question": "Quelque chose donné à Dieu pour le vénérer.",
+    "choice1": "Louange",
+    "choice2": "Offrande",
+    "choice3": "Adoration",
+    "choice4": "Hymne",
+    "answer": 2
+  },
+  {
+    "question": "Dans l'Ancien Testament, nourriture fournie par Dieu aux Israélites durant l'exode dans le désert.",
+    "choice1": "Pain",
+    "choice2": "Poisson",
+    "choice3": "Fruits",
+    "choice4": "Manne",
+    "answer": 4
+  },
+  {
+    "question": "Période pandant laquelle on évite de manger.",
+    "choice1": "Greve de faim",
+    "choice2": "Jeûne",
+    "choice3": "Méditation",
+    "choice4": "Famine",
+    "answer": 2
+  },
+  {
+    "question": "Fête judaïque annuelle qui commémore la sortie des Juifs d’Égypte, avec l’aide de Dieu.",
+    "choice1": "Pâques",
+    "choice2": "Ramadan",
+    "choice3": "Moisson",
+    "choice4": "Sabbat",
+    "answer": 1
+  },
+  {
+    "question": "Plante utilisé pour asperger de l’eau ou du sang pour purifier quelque chose.",
+    "choice1": "Palmier",
+    "choice2": "Acajou",
+    "choice3": "Vigne",
+    "choice4": "Hysope",
+    "answer": 4
+  },
+  {
+    "question": "Titre que Jésus s’est donné lui-même pendant son ministère.",
+    "choice1": "Fils de Dieu",
+    "choice2": "Fils de la rébellion",
+    "choice3": "Fils de l’Homme",
+    "choice4": "Seigneur",
+    "answer": 4
+  },
+  {
+    "question": "Tribunal suprême juif dans le temps de Jésus.",
+    "choice1": "Sanhédrin",
+    "choice2": "Temple",
+    "choice3": "Synagogue",
+    "choice4": "Palais",
+    "answer": 1
+  },
+  {
+    "question": "Religion abrahamique fondée sur l’enseignement, la personne et la vie de Jésus de Nazareth.",
+    "choice1": "Judaïsme",
+    "choice2": "Zelote",
+    "choice3": "Christianisme",
+    "choice4": "Islam",
+    "answer": 3
+  },
+  {
+    "question": "Colline dans la ville de Jérusalem sur laquelle un temple avait été construit.",
+    "choice1": "Golgotha",
+    "choice2": "Sion",
+    "choice3": "Mont Olivier",
+    "choice4": "Samarie",
+    "answer": 2
+  },
+  {
+    "question": "Fête juive célébrée cinquante jours après Pâques. Pour les chrétiens, cette fête commémore le jour où les disciples du Christ ont reçu l’Esprit-Saint.",
+    "choice1": "Pain sans levain",
+    "choice2": "Pâques",
+    "choice3": "Assomption",
+    "choice4": "Pentecôte",
+    "answer": 4
+  },
+  {
+    "question": "« Vous serez hais de tous, à cause de mon nom, mais celui qui persévéra jusqu’à la fin sera sauvé »",
+    "choice1": "Marc 13:13",
+    "choice2": "Luc 3:5",
+    "choice3": "Mathieu 2:15",
+    "choice4": "Jacques 1:20",
+    "answer": 1
+  },
+  {
+    "question": "« Celui qui croit et qui sera baptisé sera sauvé, mais celui qui ne croira pas sera condamné »",
+    "choice1": "1 Timothée 4:15",
+    "choice2": "Marc 16:16",
+    "choice3": "1 Pierre 9:8",
+    "choice4": "1 Jean 2:24",
+    "answer": 2
+  },
+  {
+    "question": "« Par votre persévérance vous sauverez vos âmes »",
+    "choice1": "Jean 17:2",
+    "choice2": "Marc 16:16",
+    "choice3": "Luc 21:19",
+    "choice4": "1 Jean 2:20",
+    "answer": 3
+  },
+  {
+    "question": "« En vérité, en vérité, je vous le dis, celui qui écoute ma parole, et qui croit à celui qui m’a envoyé, a la vie éternelle et ne vient point en jugement, mais il est passé de la mort à la vie »",
+    "choice1": "1 Jean 2:2",
+    "choice2": "Marc 16:16",
+    "choice3": "Luc 21:19",
+    "choice4": "Jean 5:24",
+    "answer": 4
+  },
+  {
+    "question": "« Or, la vie éternelle, c’est qu’ils te connaissent, toi, le seul vrai Dieu, et celui que tu as envoyé Jésus-Christ »",
+    "choice1": "Jean 17:3",
+    "choice2": "Jean 5:24",
+    "choice3": "Luc 21:14",
+    "choice4": "Marc 16:10",
+    "answer": 4
+  },
+  {
+    "question": "« Alors quiconque invoquera le nom du Seigneur sera sauvé »",
+    "choice1": "Actes 2:21",
+    "choice2": "Hébreux 9:27",
+    "choice3": "Hébreux 12:13",
+    "choice4": "Apocalypse 3:15",
+    "answer": 1
+  },
+  {
+    "question": "« Et, par plusieurs autres paroles, il les conjurait et les exhortait, disant : Sauvez-vous de cette génération perverse »",
+    "choice1": "Actes 2:21",
+    "choice2": "Actes 2:40",
+    "choice3": "Romains 1:13",
+    "choice4": "Jean 3:19",
+    "answer": 2
+  },
+  {
+    "question": "« Car je n’ai point honte de l’Evangile ; c’est une puissance de Dieu pour le salut de quiconque croit, du juif premièrement, puis du Grec »",
+    "choice1": "Mathieu 4:20",
+    "choice2": "Actes 2:40",
+    "choice3": "Romains 1:16",
+    "choice4": "Colossiens 3:6",
+    "answer": 3
+  }
+]
