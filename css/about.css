@@ -1,0 +1,77 @@
+:root {
+    font-size: 62.5%;
+}
+  
+  /* UTILITIES */
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 80rem;
+    margin: 10px auto;
+    padding: 2rem;
+  }
+  
+  .container > * {
+    width: 100%;
+  }
+  
+  .flex-column {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .flex-center {
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .justify-center {
+    justify-content: center;
+  }
+  
+  /* BUTTONS */
+  .btn-back {
+    font-size: 1.5rem;
+    padding: 1rem 0;
+    width: 20rem;
+    text-align: center;
+    border: 0.1rem solid rgba(86, 185, 235, 0.5);
+    margin-top: 2rem;
+    text-decoration: none;
+    color: #000;
+    background-color: transparent;
+  }
+  
+  .btn-back:hover {
+    cursor: pointer;
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
+    transform: translateY(-0.1rem);
+    transition: transform 150ms;
+  }
+ 
+
+  #about {
+    margin: auto;
+  }
+
+  #about, h1 {
+    color: rgba(86, 185, 235, 0.5);
+  }
+
+  #about, p {
+    font-size: 1.5rem;
+    color: #000;
+    text-align: center;
+  }
+
+  .image-logo {
+      width: 50%;
+      border-radius: 80%;
+  }
+
+  .text-primary {
+      color: #000;
+  }
+  
