@@ -4,19 +4,19 @@
     "description" : "Jeu de questions reponses pour une amelioration et une memorisation des Saintes Ecritures",
     "icons" : [
         {
-            "src" : "/images/icon-192.png",
+            "src" : "/quiz-bible/images/icon-192.png",
             "type" : "image/png",
             "sizes" : "192x192",
             "purpose" : "any maskable"
         },
         {
-            "src" : "/images/icon-512.png",
+            "src" : "/quiz-bible/images/icon-512.png",
             "type" : "image/png",
             "sizes" : "512x512",
             "purpose" : "any maskable"
         }
     ],
-    "start_url" : "/https://geekture.github.io/quiz-bible/?source=pwa",
+    "start_url" : "/https://geekture.github.io/quiz-bible",
     "background-color" : "#fff",
     "display" : "fullscreen",
     "scope" : "/",
