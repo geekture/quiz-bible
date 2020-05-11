@@ -6,19 +6,17 @@
         {
             "src" : "/quiz-bible/images/icon-192.png",
             "type" : "image/png",
-            "sizes" : "192x192",
-            "purpose" : "any maskable"
+            "sizes" : "192x192"
         },
         {
             "src" : "/quiz-bible/images/icon-512.png",
             "type" : "image/png",
-            "sizes" : "512x512",
-            "purpose" : "any maskable"
+            "sizes" : "512x512"
         }
     ],
-    "start_url" : "/https://geekture.github.io/quiz-bible",
+    "start_url" : "https://geekture.github.io/quiz-bible/?source=pwa",
     "background-color" : "#fff",
     "display" : "fullscreen",
-    "scope" : "/",
+    "scope" : "https://geekture.github.io/quiz-bible",
     "theme_color" : "#fff"
 }
