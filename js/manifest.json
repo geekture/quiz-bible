@@ -14,7 +14,7 @@
             "sizes" : "512x512"
         }
     ],
-    "start_url" : "https://geekture.github.io/quiz-bible/?source=pwa",
+    "start_url" : "https://geekture.github.io/quiz-bible?source=pwa",
     "background-color" : "#fff",
     "display" : "fullscreen",
     "scope" : "https://geekture.github.io/quiz-bible",
